@@ -1,0 +1,13 @@
+{
+  "name": "test-repo",
+  "version": "0.0.1",
+  "description": "for making sure semantic-versioning works",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^22.3.0"
+  },
+  "devDependencies": {
+    "semantic-release": "^12.4.1"
+  }
+}
