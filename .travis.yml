@@ -9,7 +9,7 @@ node_js:
 script:
   - "yarn jest"
 after_success:
-  - npm run travis-deploy-once "npm run semantic-release"
+  - npm run travis-deploy-once "npm run semantic-release --dry-run"
 branches:
   except:
     - /^v\d+\.\d+\.\d+$/

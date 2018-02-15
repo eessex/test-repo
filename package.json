@@ -12,6 +12,7 @@
     "travis-deploy-once": "^4.3.4"
   },
   "scripts": {
+    "test": "yarn jest",
     "semantic-release": "semantic-release",
     "travis-deploy-once": "travis-deploy-once"
   },
