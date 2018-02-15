@@ -1,10 +1,11 @@
 {
-  "name": "@eessex/test-repo",
+  "name": "test-repoz",
   "version": "0.0.0-development",
   "description": "for making sure semantic-versioning works",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "conventional-changelog-ember": "^0.3.4",
     "jest": "^22.3.0"
   },
   "devDependencies": {
