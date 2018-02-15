@@ -1,6 +1,6 @@
 {
-  "name": "test-repo",
-  "version": "0.0.1",
+  "name": "@eessex/test-repo",
+  "version": "0.0.0-development",
   "description": "for making sure semantic-versioning works",
   "main": "index.js",
   "license": "MIT",
