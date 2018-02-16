@@ -5,10 +5,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "conventional-changelog-ember": "^0.3.4",
     "jest": "^22.3.0"
   },
   "devDependencies": {
+    "conventional-changelog-ember": "^0.3.4",
     "semantic-release": "^12.4.1",
     "travis-deploy-once": "^4.3.4"
   },
