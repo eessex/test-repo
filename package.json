@@ -25,11 +25,10 @@
     "analyzeCommits": {
       "preset": "ember",
       "releaseRules": [
-        {"tag": "fix", "release": "patch"},
         {"tag": "FIX", "release": "patch"},
-        {"tag": "docs", "release": "patch"},
-        {"tag": "feature", "release": "minor"},
-        {"tag": "breaking", "release": "patch"}
+        {"tag": "DOC", "release": "patch"},
+        {"tag": "FEATURE", "release": "minor"},
+        {"tag": "BREAKING", "release": "major"}
       ]
     }
   }
